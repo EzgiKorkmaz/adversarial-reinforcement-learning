@@ -1,6 +1,6 @@
 # Adversarial Reinforcement Learning
 
-A curated reading list for adversarial perspective in deep reinforcement learning. The list covers topics ranging from adversarial attacks on deep reinforcement learning policies to adversarial training techniques and interpretability in deep reinforcement learning robustness to adversarial state detection algortihms for robust decision making.
+A curated reading list for the adversarial perspective in deep reinforcement learning. The list covers topics ranging from adversarial attacks on deep reinforcement learning policies to adversarial training techniques and interpretability in deep reinforcement learning robustness to adversarial state detection algortihms for robust decision making.
 
 Delving Into Adversarial Attacks on Deep Policies. ICLR Workshop 2017. [[Link]](https://arxiv.org/abs/1705.06452)
 
