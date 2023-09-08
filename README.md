@@ -1,4 +1,4 @@
-# adversarial-reinforcement-learning
+# Adversarial Reinforcement Learning
 
 Reading list for adversarial perspective in deep reinforcement learning. The list covers from adversarial attacks on deep reinforcement learning policies to adversarial training techniques and interpretability in deep reinforcement learning robustness.
 
