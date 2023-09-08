@@ -1,6 +1,6 @@
 # adversarial-reinforcement-learning
 
-Reading list for adversarial perspective in deep reinforcement learning.
+Reading list for adversarial perspective in deep reinforcement learning. The list covers from adversarial attacks on deep reinforcement learning policies to adversarial training techniques. 
 
 Delving Into Adversarial Attacks on Deep Policies, ICLR Workshop 2017. [[Link]](https://arxiv.org/abs/1705.06452)
 
@@ -10,6 +10,10 @@ Robust Adversarial Reinforcement Learning, ICML 2017. [[Link]](http://proceeding
 
 Nesterov Momentum Adversarial Perturbations in the Deep Reinforcement Learning Domain, ICML Workshop 2020. [[Link]](https://biases-invariances-generalization.github.io/pdf/big_33.pdf)
 
+Investigating Vulnerabilities of Deep Neural Policies. UAI 2021. [[Link]](https://proceedings.mlr.press/v161/korkmaz21a.html)
+
 Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs, AAAI 2022. [[Link]](https://aaai.org/papers/07229-deep-reinforcement-learning-policies-learn-shared-adversarial-features-across-mdps/)
 
 Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness, AAAI 2023. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/26009)
+
+Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. International Conference on Machine Learning, ICML 2023. [[Link]](https://proceedings.mlr.press/v202/korkmaz23a.html)
