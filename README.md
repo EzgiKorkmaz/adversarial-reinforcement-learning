@@ -1,14 +1,6 @@
 # Adversarial Reinforcement Learning
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-83Q47PTF6H"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-83Q47PTF6H');
-</script>
 
 A curated reading list for the adversarial perspective in deep reinforcement learning. The list covers topics ranging from adversarial attacks on deep reinforcement learning policies to adversarial training techniques and interpretability in deep reinforcement learning robustness to adversarial state detection algortihms for robust decision making.
 
