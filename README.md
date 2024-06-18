@@ -23,3 +23,5 @@ Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MD
 Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. AAAI 2023. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/26009)
 
 Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. ICML 2023. [[Link]](https://proceedings.mlr.press/v202/korkmaz23a.html)
+
+Understanding and Diagnosing Deep Reinforcement Learning. ICML 2024. [[Link]](https://openreview.net/pdf?id=s9RKqT7jVM)
