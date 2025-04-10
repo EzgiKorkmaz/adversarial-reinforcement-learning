@@ -25,3 +25,5 @@ Adversarial Robust Deep Reinforcement Learning Requires Redefining Robustness. A
 Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions. ICML 2023. [[Link]](https://proceedings.mlr.press/v202/korkmaz23a.html)
 
 Understanding and Diagnosing Deep Reinforcement Learning. ICML 2024. [[Link]](https://openreview.net/pdf?id=s9RKqT7jVM)
+
+AI Safety: From Reinforcement Learning to Foundation Models, AAAI 2025. [[Link]](https://sites.google.com/view/aisafety-aaai2025)
