@@ -26,4 +26,6 @@ Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust D
 
 Understanding and Diagnosing Deep Reinforcement Learning. ICML 2024. [[Link]](https://openreview.net/pdf?id=s9RKqT7jVM)
 
+Principled Analysis of Machine Learning Paradigms, PhD Thesis. [[Link]](https://discovery.ucl.ac.uk/10198328/1/EzgiKorkmazPhDThesis.pdf)
+
 AI Safety: From Reinforcement Learning to Foundation Models, AAAI 2025. [[Link]](https://sites.google.com/view/aisafety-aaai2025)
